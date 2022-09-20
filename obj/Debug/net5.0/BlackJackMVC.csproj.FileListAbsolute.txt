@@ -1,0 +1,592 @@
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\appsettings.json
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.exe
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.deps.json
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.json
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.dev.json
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.Views.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\BlackJackMVC.Views.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MG65524\Downloads\BlackJackGame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.csproj.AssemblyReference.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.AssemblyInfoInputs.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.AssemblyInfo.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.csproj.CoreCompileInputs.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\scopedcss\bundle\BlackJackMVC.styles.css
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\staticwebassets\BlackJackMVC.StaticWebAssets.Manifest.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.TagHelpers.input.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.TagHelpers.output.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.RazorCoreGenerate.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\Home\NormalGameView.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\StartGame\Index.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cs
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.Views.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.csproj.CopyComplete
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.dll
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\refint\BlackJackMVC.dll
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\BlackJackMVC.genruntimeconfig.cache
+C:\Users\MG65524\Downloads\BlackJackGame\obj\Debug\net5.0\ref\BlackJackMVC.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\appsettings.json
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.exe
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.deps.json
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.json
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.dev.json
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.Views.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.Views.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.AssemblyReference.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.AssemblyInfoInputs.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.AssemblyInfo.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.CoreCompileInputs.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\scopedcss\bundle\BlackJackMVC.styles.css
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\staticwebassets\BlackJackMVC.StaticWebAssets.Manifest.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.TagHelpers.input.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.TagHelpers.output.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorCoreGenerate.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\NormalGameView.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\StartGame\Index.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cs
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.Views.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.CopyComplete
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\refint\BlackJackMVC.dll
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.pdb
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.genruntimeconfig.cache
+C:\Users\MG65524\Downloads\BlackJackGame\BlackJackMvc\obj\Debug\net5.0\ref\BlackJackMVC.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\appsettings.Development.json
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\appsettings.json
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.exe
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.deps.json
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.json
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.dev.json
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.pdb
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.Views.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.Views.pdb
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Humanizer.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Blackclone\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.AssemblyReference.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.AssemblyInfoInputs.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.AssemblyInfo.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.CoreCompileInputs.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\scopedcss\bundle\BlackJackMVC.styles.css
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\staticwebassets\BlackJackMVC.StaticWebAssets.Manifest.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.TagHelpers.input.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.TagHelpers.output.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorCoreGenerate.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\NormalGameView.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\StartGame\Index.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cs
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.Views.pdb
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.CopyComplete
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.dll
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\refint\BlackJackMVC.dll
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.pdb
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.genruntimeconfig.cache
+D:\Blackclone\BlackJackMvc\obj\Debug\net5.0\ref\BlackJackMVC.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\appsettings.Development.json
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\appsettings.json
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.exe
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.deps.json
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.json
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.runtimeconfig.dev.json
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.pdb
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.Views.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\BlackJackMVC.Views.pdb
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Humanizer.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Change in git\BlackJackMvc\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.AssemblyReference.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.AssemblyInfoInputs.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.AssemblyInfo.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.CoreCompileInputs.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorAssemblyInfo.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\scopedcss\bundle\BlackJackMVC.styles.css
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\staticwebassets\BlackJackMVC.StaticWebAssets.Manifest.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.TagHelpers.input.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.TagHelpers.output.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorCoreGenerate.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\NormalGameView.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\StartGame\Index.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.RazorTargetAssemblyInfo.cs
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.Views.pdb
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.csproj.CopyComplete
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.dll
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\refint\BlackJackMVC.dll
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.pdb
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\BlackJackMVC.genruntimeconfig.cache
+D:\Change in git\BlackJackMvc\obj\Debug\net5.0\ref\BlackJackMVC.dll

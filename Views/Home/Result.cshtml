@@ -1,0 +1,85 @@
+﻿@model IEnumerable<BlackJackMVC.Models.Card>
+@{
+    ViewData["Title"] = "Result";
+   // Layout = null;
+}
+
+
+<h1>Winner : <h1 style="background-color:darkcyan">@ViewBag.winner</h1></h1>
+<body style="background:aqua">
+
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+</style>
+
+
+
+
+
+<h2>Point Table </h2>
+
+
+<table>
+  <tr>
+    <th>Card No :</th>
+    <th>Player </th>
+    <th>Dealer </th>
+  </tr>
+   
+  <tr>
+      <td>1.</td>
+    <td>@ViewBag.CardInHand</td>      
+    <td>@ViewBag.CardInDeal </td>
+    </tr>
+     <tr>
+         <td>2.</td>
+    <td>@ViewBag.CardInHand1</td>
+    <td> @ViewBag.CardInDeal1</td>
+    </tr>
+     <tr>
+         <td>3.</td>
+    <td>@ViewBag.CardInHand2</td>
+    <td> @ViewBag.CardInDeal2</td>
+    </tr>
+     <tr>
+         <td>4.</td>
+    <td>@ViewBag.CardInHand3</td>
+    <td> @ViewBag.CardInDeal3</td>
+    </tr>
+</table>
+
+
+<br />
+<hr/>
+
+<table>
+  <tr>
+    <th>PLayer Point</th>
+    <th>Dealer POint</th>
+  
+  </tr>
+  <tr>
+    <td>@ViewBag.Pscore</td>
+    <td> @ViewBag.dscore</td>
+    </tr>
+</table>
+
+
+ <a href="/"><button class="btn btn-primary">Play Again</button></a>
+ </body>

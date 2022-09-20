@@ -1,0 +1,92 @@
+﻿@using System;
+@using System.Threading;
+@{
+    ViewData["Title"] = "Home Page";
+  
+}
+<body style="background:orange">
+<div class="text-center">
+    <div class="row">
+        <div class="col">
+            <h1 class="display-4">Player 1</h1>
+            <hr>
+
+            @for (int i = 0; i < ViewBag.Hand.Count; i++)
+            {
+                if(ViewBag.Hand[i].ImgURL == "https://deckofcardsapi.com/static/img/AD.png")
+                {
+                    <img src="AD.png" alt="ace of diamonds">
+                }
+                else
+                {
+                    <img src=@ViewBag.Hand[i].ImgURL alt=@ViewBag.Hand[i]>
+                }
+            }            
+           
+            @{
+                if(ViewBag.Hand.Count >= 3)
+            {
+                <h3>Score: @ViewBag.hitplayerscore</h3>
+            }
+            else{
+                <h3>Score:@ViewBag.playerScore</h3>
+            }
+            }
+            
+            <h3>
+                @{
+                   
+                    if(ViewBag.playerScore < 21)
+                    {
+                        <a asp-action="Hit"><button class="btn btn-warning"> Hit </button></a>
+                    }
+                     if(ViewBag.playerScore >21){
+                <h3>You Are Busted</h3>
+              
+                @Html.ActionLink("See-Result","Result","Home")
+                
+                  <a href="/"><button class="btn btn-primary">Play-Again</button></a>
+                }
+                }
+                <button class="btn btn-success"><a asp-action="Stay"> Stay</a></button>
+            </h3>
+        </div>
+        <div class="col">
+            <h1 class="display-4">Dealer</h1>
+       
+            <hr>
+            
+            @for(int i = ViewBag.Dealer.Count - 1; i >= 0; i--)
+            {
+                if(ViewBag.Dealer[i].Shown == false)
+                {
+                    <img src="dealer.jpg" alt="Dealer's First Card">
+                }
+                else if(ViewBag.Dealer[i].ImgURL == "https://deckofcardsapi.com/static/img/AD.png")
+                {
+                    <img src="AD.png" alt="ace of diamonds">
+                }
+                else
+                {
+                    <img src=@ViewBag.Dealer[i].ImgURL alt=@ViewBag.Dealer[i]>
+                }
+            }
+            @if(ViewBag.Display == false)
+            {
+                <h3>Score:</h3>
+            }
+
+            @if(ViewBag.Display == true)
+            {
+                
+                    <h3>Score: @ViewBag.dealerScore</h3>
+                    
+                    <a href="Home/Result"><button class="btn btn-primary">New Hand</button></a>
+             }
+                
+
+        </div>
+    </div>
+    <a href="/"><button class="btn btn-primary">New Hand</button></a>
+</div>
+</body>
